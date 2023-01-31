@@ -19,12 +19,12 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* AutoFilled City Searching
+  - GeoDB Cities enables city autofill based on the prefix entered by the user
+* Notable weather details in the search query's area
+  - Details , Feels Like , Wind , Humidity , Pressure , Sea Level , Clouds Percentage , Min/Max Temperature
+* Future Forecast for queried City
+  - Includes forecast details as stated above
 
 ## How To Use
 
