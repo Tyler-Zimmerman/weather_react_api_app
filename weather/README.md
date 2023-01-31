@@ -3,7 +3,6 @@
   <br>
   <a><img src="https://static.wixstatic.com/media/472288_d3736064c30c4c509c1aac83c8c8768f~mv2.png/v1/fill/w_422,h_362,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Finallogo.png" alt="saintlify" width="200"></a>
   <br>
-  Saintlify
   <br>
 </h1>
 
@@ -16,7 +15,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot]()
 
 ## Key Features
 
